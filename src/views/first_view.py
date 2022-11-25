@@ -5,7 +5,8 @@ def introduction_page():
     * First Calculator - 1
     * Second Calculator - 2
     * Third Calculator - 3
-    * Exit - 4
+    * Search Calculator - 4
+    * Exit - 5
   """
     print(message)
     command = input("Command: ")

@@ -6,9 +6,9 @@ class RegistrySecondCalculatorViews:
         self.__clear()
 
         print("Registry the results calculator \n\n")
-        calculators = input("Add the results calculator")
+        numbers = input("Add the results calculator")
 
-        return calculators
+        return numbers
 
     def registry_second_calculator_success(self, calculator_number: any) -> None:
         self.__clear()
