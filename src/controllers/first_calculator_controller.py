@@ -15,7 +15,7 @@ import math
 
 
 class FirstCalculatorController:
-    def first(self, number: any):
+    def first(self, number: float) -> any:
         number_parte = number / 3
         parte_1 = (number_parte / 4 + 7).math.sqrt * 0.257
         parte_2 = number_parte**2.121 / 5 + 1

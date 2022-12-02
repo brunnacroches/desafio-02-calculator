@@ -1,6 +1,6 @@
-from views.first_view import introcution_page
+from src.views.first_view import introduction_page
 
 
 def introduction_process():
-    command = introcution_page()
+    command = introduction_page()
     return command

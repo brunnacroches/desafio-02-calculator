@@ -1,7 +1,7 @@
 import os
 
 
-class RegistryThirdCalculatorViews:
+class ThirdCalculatorView:
     def registry_third_calculator_page(self) -> None:
         self.__clear()
 

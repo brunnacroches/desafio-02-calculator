@@ -1,7 +1,7 @@
 import os
 
 
-class RegistryFirstCalculatorViews:
+class FirstCalculatorView:
     def registry_first_calculator_page(self) -> None:
         self.__clear()
 

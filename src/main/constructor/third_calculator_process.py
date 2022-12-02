@@ -1,4 +1,4 @@
-from views.search_calculator_view import ThirdCalculatorView
+from src.views.third_calculator_view import ThirdCalculatorView
 from src.controllers.third_calculator_controller import ThirdCalculatorController
 
 

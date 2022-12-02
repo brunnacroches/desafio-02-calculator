@@ -17,7 +17,7 @@ class ThirdCalculatorController:
         else:
              print("Error")
 
-        return {"success": True, "value": number}
+        return {"success": True, "value": numbers}
 
 
 # usar o if else
