@@ -1,6 +1,5 @@
 from src.views.first_calculator_view import FirstCalculatorView
-from src.controllers.first_calculator_controller import FirstCalculatorController
-
+from src.controllers.calculators.first_calculator import FirstCalculatorController
 
 def first_calculator_process() -> None:
     first_calculator_view = FirstCalculatorView

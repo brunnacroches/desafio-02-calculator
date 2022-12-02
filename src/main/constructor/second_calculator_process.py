@@ -1,5 +1,5 @@
 from src.views.second_calculator_view import SecondCalculatorView
-from src.controllers.second_calculator_controller import SecondCalculatorController
+from src.controllers.calculators.second_calculator import SecondCalculatorController
 
 
 def second_calculator_process() -> None:
